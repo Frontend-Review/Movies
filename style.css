@@ -1,7 +1,15 @@
 
-#btn {
+#search {
     background-color:#007bff;
     color: #ffffff;
+    min-height: 38px;
+    text-align: center;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    cursor: pointer;
+    font-weight: 400;
+
 }
 #inputValue {
     width: 760px;
