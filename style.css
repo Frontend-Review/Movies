@@ -1,0 +1,19 @@
+
+#btn {
+    background-color:#007bff;
+    color: #ffffff;
+}
+#inputValue {
+    width: 760px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    outline: none;
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
